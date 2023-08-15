@@ -4,4 +4,5 @@
 
 # Fresh Table of Contents
 - ## [[100 - Catalog of Notes/110 - Computer Science/120 - Deno/01 - Fresh/01 - Fresh\|01 - Fresh]]
+- [[100 - Catalog of Notes/110 - Computer Science/120 - Deno/01 - Fresh/1.1 - Fresh Docs\|1.1 - Fresh Docs]]
 - 
