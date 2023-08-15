@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/200-obsidian-garden/notes-catalog/notes-catalog/"}
 ---
 
+
+
 # Notes Catalog Table of Contents
 - ## [[200 - Obsidian Garden/Notes Catalog/Notes Catalog\|Notes Catalog]]
 	- ### [[100 - Catalog of Notes/100 - Catalog of Notes\|100 - Catalog of Notes]]
